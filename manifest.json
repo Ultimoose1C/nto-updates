@@ -1,0 +1,15 @@
+{
+  "product": "NTO",
+  "versions": [
+    {
+      "version": "1.1.0.1",
+      "release": "2026-10-23",
+      "file": "Напоминание о ТО 1.1.0.1.cfe",
+      "size": 340893,
+      "sha256": "E9F1E7DC264FDF73C517513184B042A729C72835AB1F151E6269FBB183C50AE5",
+      "notes": "Пилотная версия автоматических приглашений на ТО."
+    }
+  ],
+  "source": "",
+  "signature": "BF7D7AE94A993151434F1DAB8F72B17AA86AE8A01E234AF8BE6697AEF2397946"
+}
